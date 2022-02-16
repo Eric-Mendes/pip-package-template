@@ -1,2 +1,2 @@
 # pip-package-template
-Template for an open source Python package.
+Minimal template for an open source Python package.
