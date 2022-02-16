@@ -1,2 +1,2 @@
 # pip-package-template
-My own template that I use for my Python packages.
+Template for an open source Python package.
